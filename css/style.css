@@ -1,0 +1,9 @@
+@import "./componentes/button.css";
+@import "./componentes/wrapper.css";
+@import "./formulario.css";
+@import "./componentes/input.css";
+@import "./componentes/circulo.css";
+
+body {
+    background-color: rgb(168, 70, 168);
+}
